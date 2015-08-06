@@ -1,0 +1,65 @@
+694 ’
+
+693
+sione utimur ad demonstrationem.
+autem syllogismis hoc modo monstratur ex se in-
+vicem : sit b quidem omni c inesse, α autem nulli b,
+conclusio autem quoniam a nulli c. Si ergo rursum
+Oportcat concludere quoniam α nulli b, quod prius
+sumptum erat, erit a quidem nulli ε. c autem omni
+b, sic enim e converso propositio. Si autem quo-
+niam b inest c, oporteat concludere, non jam similiter
+convertendnm a ὁ, nam eadem propositio est b nulli
+α. et a nulli b inesse, sed sumendum, cui a nulli in-
+est, huic b omni inesse. Sit enim a nullic inesse,
+quod quidem fuit conclusio, cui autem a nulli b, si
+sumatur omni inesse, necesse est ergo ὁ omni ε in-
+esse: quare cum _sint tria, unumquodque conclusio
+est facta, et circulo demonstrare, hoc est conclu-
+conclusio semper ρει particularis: quare manifestum
+sionem sumentem et e converso alteram propositio-
+quouiam omnino non contingit OStendere per lianc
+nem, reliquam 'syllugizare. lu particularibus autem
+syllogismis universalem quidem propositionem non
+est demonstrare per alias, particular-em autem est;
+quoniam autem non est demonstrare universalem,
+manifestum, nam universale monstratur per uni-
+versalia, conclusio autem nOn est universalis, opor-
+tet autem ostendere ex conclusione et altera propo-
+sitione. Amplius, omnino non ﬁt syllogismus con-
+versa propositione, nam particulares ﬁunt utrmque
+propositioni-5.Particulare autem est, ostendatur enim
+a de aliquo c per b, si ergo sumatur b oniui a, et
+coaclusio maneat, b alicui c inerit, ﬁt enim prima
+ﬁgura, et est a medium. Si autem ﬁt privativus syllo-
+gismus, universalem quidem propositionem non est
+et al erum alicui ,Iiuic, hoc autem sumpto jam nun sit
+ostendere, propter hoc quod prius dictum est, parti- C ex conclusione ει altera propositione syllogismus.
+cularem (si simpliciter convertatur α b quemadmodum
+et in universalilius) nun est, per assumptiouein
+autem cst, ut cui a alicui non insit, b al'cui inesse;
+nam aliter se haloentibus non litsyllogismus, co quod
+negativa cst particularis proposition
+‘ CAPUT vr.
+De eadem cyclica circulari ostensione in secunda
+ﬁgura.
+In secunda autem ﬁgura afﬁrmativam quidem non
+est ostendere per hunc modum, privativam autem
+cst; ergo prmdicativa quidem non ostenditur, eo
+quod non sunt utrmque propositiones al'lirmativaa,
+nam conclusio privativa, prazdicativa autem ex uti-is-
+que ostendebatur ailirmativis. Privativa autem sic
+osreuditur ε insit enim a omni b, c autem nulli, con- Ῑ)
+clusio quoniam ὸ nulli c; si ergo sumatur ὁ omni α in-
+esse, et nulli c, necesse est a nulli ε inesse, tit enim
+secunda ﬁgura, medium b. Si autem a ὸ privativa
+sumpta sit, altera vero praedicativa, prima erit
+ligura, nam c quidem omni a, b autem nulli c, quare
+b nulli a, ergo nec a ὁ, medium c; ergo per conclu-
+sionem quidem et unam propositionem non iit syllo-
+gismus, assumpta autem altera erit. Si autem non
+universalis sit syllogismus, quae in toto quidem est .
+propositio non ostenditur, propter eamdem causam
+quam quidem diximus et prius, qua: autem in parte,
+ostenditur quando universalis sit prmdicativa. lnsit
+enim a omni b. c autem non omni, conclusio bc;

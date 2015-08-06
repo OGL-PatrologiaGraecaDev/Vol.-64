@@ -1,0 +1,62 @@
+815
+
+quoque ostendit quod c terminus de quodam a ter- Α
+mino particulariter praedicetur.Si quis enim proba-
+verit animal de omni homine praedicari,ita dicens,
+omnis homo animal est, illud quoque necessario
+monstravitparticulariter.quoniam quoddam animal
+homo est.lta semper universalis negatio, et univer-
+salis afﬁrmatio, vel particularisafﬁrmativa duplici-
+ter concluduntur.Alias enim sibi ipsis convertuntur,
+quae particularis est particulariter,quee universalis
+universaliter. Alia vero,cum ipsa universalis afﬁr-
+mativa sit, particulariter sibi ipsi convertitur. Par-
+ticularis autem negatio nunquam sibi ipsi converti-
+tur, atque ideo simplicem in se retinet conclusionem.
+Hoc autem quod nuper diximus, in secundo prio-
+rum Analyticorum libro ab Aristotele monstratur,
+quod scilicet TbeOpbrastus etEudemus principium Β
+capientes ad alios in prima ﬁgura syllogismos adji-
+ciendos animum adjecere,qui sunt hujusmodi qui
+κατὰ ἀνάκλασιν vocantur, id est per reiractionem
+quamdam conversionemque propositionis. Et est
+quintus modus ex duabus universalibus afﬁrmatio-
+nibus, particularem colligens aiﬁrmativam hoc mo-
+do : Si α fuerit in omni b,et b fuerit in omni u,posset
+equidem concludi quod a terminum esset in omni c
+termino.Sed quoniam ista universalis propositio,ut
+dictum est, particulariter convertitur, praetermisso
+eo quod a terminus de omni ο termino praedicatur,
+conclusio esse dicitur quod c terminus de quodam
+a termino prmdicatur,quod hoc exemplo monstran—
+dum est.Si enim sint propositiones sic,omnejustum
+bonum est,omnis virtus justa est, posset concludi
+equidem quoniam omnis virtus bonum est.Sed quo- (ἶ
+niam ita propositio sibi convertitur,ut sit,quoddam
+bonum virtus est particulariter, particularis syllo-
+gismus conclusioque colligitur ex duabus univer-
+salibus afﬁrmativis. Ejus vero forma talis est, a
+terminus in omni b, ι) terminus in omni c igitur ε
+terminus in quodam α, ut est:
+Omne justum bonum est.
+Omnis virtus justa est.
+Quoddam bonum justus est.
+Per conversionem refractionemque dicitur,quoniam
+quod universaliter colligebatur conversum,particu-
+lariter collectum est. Sextus modus est primae ﬁgu-
+rae qui ﬁt ex universali negativa et universali afﬁr-
+mativa universalem conclusionem perconversionem
+colligens.Nam si a terminus in nullo b fuerit, Ι) vero [)
+terminus in omnic termino fuerit, posset equidem
+colligi quoniam a terminus in nullo ε termino est:
+se quoniam universalis negativa convertitur, dici-
+mus quoniam c terminus in nullo a termino est, ut
+sic hoc modo :
+Nullum bonum malum est.
+Ornne justum bonum est,posset colligi ;
+Nullumjustum malum est ; sed ex his per
+versalis negativa colligitur. Si enim a terminus de
+nullo b termino et de omni ο termino pradicant-,5
+terminus de nullo c termino praedicabitur.Sitenim γσ
+bonum,sit b malum,c justum.Si quis igitursicdicat:
+afﬁrmativa et particulari afﬁrmativa per conversio-

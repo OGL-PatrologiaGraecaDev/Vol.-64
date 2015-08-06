@@ -1,0 +1,63 @@
+647
+
+AN. MANL. BEV. BOETII
+6518
+logismi, omnes enim perﬁciuntur quibusdam as- Α et ad eos qui ex eadem sunt ﬁgura, et ad invicem,
+sumptis.Et quoniam syllogizare universale per hanc
+ﬁguram non erit, neque privativum,neque affirma-
+tivum.
+CAPUT VIl.
+De tribus ﬁguris et indirectis syllogismus ad invicem.
+Palam autem et quoniam in omnibus ﬁguris,
+aliquando non ﬁtsyllogismus.Cum preedicativiqui-
+dem, vel privativi sunt utrique termini, et particu-
+lares, nihil omnino ﬁt necessarium. Cum autem
+pradicativus,et privativus,et universaliter sumptus
+privativus,semper ﬁt syllogismus minoris extremi-
+tatis ad majorem,ut si α quidem omni b vel alicui,
+b autem nulli c; conversis enim propositionibus,
+positis terminis, et in iis qua insunt, et in iis quas
+necesse est c alicui a non inesse. Similiter autem et Β ex necessitate insunt vel non insunt, et erit,“ ῃοη
+in aliis ﬁguris, semper enim ﬁt per conversionem
+syllogismus.Palam etiam quoniam indeﬁnitum pro
+praedicativo particulari positum,eumdem’;l‘aciet syl-
+logismum in omnibus ﬁguris.Manit‘estum autemet
+quoniam omnesimpert‘ecti syllogismi perﬁciuntur
+per primam ﬁguram. Aut enim ostensive, aut per
+impossibile ciauduntur omnes. Utrinque autem ﬁt
+prima ﬁgura.Etostensive quidem perfectis,quoniam
+per conversionem claudebantur omnes, conversio
+autem primam faciebatﬁguram,perimpossibile vero
+demonstratis, quoniam posito falso syllogismus ﬁt
+per primum ﬁguram. Ut in postrema ﬁgura, si aet
+Ι) omni ο insunt, quoniam a alicui b inest, nam si
+nulli etb omni ε, nulli c inerita, sed inerat omni-
+Similiter autem in aliis. Est etiam reducere omnes
+syllogismos ad universales syllogismos primis ﬁgurae.
+Nam qui suntin secunda ﬁgura, manifestum quo-
+niam per illos perﬁciuntur,verum non similiterom-
+nes, sed universales quidem privativa conversa;
+particularium autem utraque per ad impossibile re-
+ductionem. Qui vero in prima sunt particulares,
+perﬁciuntur quidem per se.Est autem et per secun-
+dam ﬁguram ostendere ad impossibile ducentes, ut
+si a omni ἱ), et ὁ alicui ε, quoniam (ι alicui r. inerit.
+Si enim nulli, b autem omni, nulli ο inerit b. Hoc
+enim scimus persecund um ﬁguram.Similiter autem
+et in privativo erit demonstratio ; si enim τι nullib,
+et b alicuic inest, a alicui c non erit, nam si a
+omni c, b autem nulli inest, nulli ο inerit b. Haec
+autem fuit media ﬁgura;quare quoniam qui in media
+sunt syllogismi,omnes reducuntur in prima: ﬁgurae D necessaria. Nam si est, accidit a alicui ὁ inesse ex
+universales syllogismos, qui vero particulares sunt
+in prima, ad eos qui sunt in media, manifestum
+est quoniam et partieulares reducentur ad eos qui
+in prima ﬁgura sunt universales syllogismos;qui
+vero sunt in tertia,cum universales sintquidem ter-
+mini, statim perﬁciuntur per illos syllogismos. Si
+autem particulares,sumuntur per particulares syllo-
+gismos prima: ﬁgurae, sed hi reducti sunt ad illos,
+quare et tertiae ﬁgura: particulares.Manifestum ergo
+quoniam omnes reducentur in primasﬁguraa univer-
+sales syllogismos. Igitur syllogismi inesse vel non
+inesse ostendentes,dictum est quomodo se habent,

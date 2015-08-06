@@ -1,0 +1,57 @@
+1V. ΒΟΕΤΙΙ 793
+
+791 AN. MANL.
+Omnis homo justus est. Α Omnis justus non homo est.
+Nullus homo justus est. Nullusjustus non homo est.
+Quidam homo justus est. Quidam justus non homo est.
+Quidam homo justus non est. Quidam justus non homo non est.
+Omnis homo grammaticus est. Omnis grammaticus non homo est.
+Nullus homo grammaticus est. Nullus grammaticus non homo est.
+Quidam homo grammaticus est. Quidam grammaticus non homo est.
+Quidam homo grammaticus non est. Quidam grammaticus non homo non est.
+Omnis homo lapis est. Omnis lapis non homo est.
+Nullus homo lapis est. Nullus lapis non homo est.
+Quidam homo lapis est. Quidam lapis non homo est.
+Quidam homo lapis non est. Quidam lapis non homos non est.
+Omnis homo risibilis est. Omne risibile non homo est.
+Nullus homo risibillis est. Nullum risible non homo est.
+Quidam homo risibilis est. Β Quoddam risibile non homo est.
+Quidam homo risibilis non est.
+Harum igitur in afﬁrmationibus quidem univer-
+salibus si ea de subjecto praedicentur qua: et adesse
+et abesse contingant, sive illud subjecto majus sit,
+utjustitia homine, sive minus, ut grammaticus ho-
+mine, vel sica quae omnino adesse non possunt, ut
+lapis homini, simul semper falsas esse necesse est.
+Si quid vero praater hmo fuerit praedicatum, unam
+veram, falsam alteram esse proveniet, nunquam
+vero ulriq ue veritas consonabitJn negationibus vero
+universalibus siquidem ea de subjecto praedicantur
+quae a subjecto valeant segregari, sive illa majora
+sint, ut justitia homine, sive minora uteodem ho-
+mine grammaticus, utrisque aderit falsa sententia.
+Quidquid vero reliquorum fuerit praedicatum uni ve- C descriptio supponatur qua}: priore parte simplicibus
+rum, alteri faciet adesse mendacium. Nunquam vero
+in his concors veritas invenitur. lu particularibus
+vero afﬁrmationibus siquidem ea praedicantur, qua
+Simplices.
+Omnis homo animal est.
+Nullus homo animal est.
+Quidam homo animal est.
+Quidam homo animal non est.
+Omnis homo risibilis est.
+Nullus homo risibilis est.
+Quidam homo risibilis.
+Quidam homo risibilis non est.
+Omnis homo lapis est.
+Nullus homo lapis est.
+Quidam homo lapis est.
+Quidam homo lapis non est.
+Omnis homo justus est.
+Nullus homo justus est.
+Quidam homo justus est.
+Quidam homo justus non est.
+Omnis homo grammaticus est.
+Nullus homo grammaticus est.
+Quidam homo grammaticus est.
+Quidam homo grammaticus non est.

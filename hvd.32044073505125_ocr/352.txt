@@ -1,0 +1,64 @@
+693
+694
+
+PRIORUM ANALYTICORUM ARISTOTELIS INTERPRETATIO.
+sione utimur ad demonstrationem. In privativis Α si ergo sumatur ἰ) omni α, c autem non omni,con-
+autem syllogismis hoc modo monstratur ex se in-
+vicem : sit b quidem omni υ inesse,a autem nulli ὁ»
+conclusio autem quoniam ιι nulli c.Si ergo rursum
+oporteat concludere quoniam a nulli ὁ, quod prius
+sumptum erat,erit a quidem nulli ο, c autem omni
+ἱ), sic enim e converso propositio. Si autem quo-
+niam Ι) inesto,oporteat concludere,non jam similiter
+convertendum α Ι), nam eadem propositio est b nulli
+a,et (ι nulli Ι) inesse,sed sumendum,cui a nulli in-
+est, huic b omni inesse. Sit enim ιι nulli ο inesse,
+quod quidem fuit eonelusio,cui autem α nulli b,si
+sumatur omni incsse,necesse est ergo b omni ιτ in-
+esse: quare cum sint tria,unumquodque conclusio
+est facta, et circulo demonstrare, hoc est conclu-
+conclusio semper est particularis: quareiuanifestum
+sionem sementem et e converso alteram propositio- Β quoniam οιηοίηο non contingit ostendere per hanc
+nem,reliquam syllogizare. In particularibus autem
+syllogismis universalem quidem propositionem non
+est demonstrare per alias,particularem autem est;
+quoniam autem non est demonstrare universalem,
+manifestum, nam universale monstratur per uni-
+versalia,conclusio autem non est universalis,opor-
+tet autem ostendere ex conclusione et altera propo-
+sitione. Amplius, omnino non ﬁt syllogismus con-
+versa propositione,nam particulares ﬁunt utraeque
+propositiones.Particulare autem est ostendaturenim
+a de aliquo c per ι), si ergo sumatur b omni a, et
+conclusio maneat, ἱ) alicui ο inerit, ﬁt enim prima
+ligura,ct est α medium.Si autem iit privativus syllo-
+gismus,universalem quidem prepositionem non est
+ostenderepropter hoc quod prius dictum est, parti-
+cularemt'sisimpliciter convertatur a ὁ quemadmo-
+dum etin universalibus) non est,per assumptionem
+autem est,ut cui α alicui non insit, ὁ alicui inesse;
+nam aliter se habentibus non ﬁtsyllogismus,eo quod,
+negativa est particularis propositio.
+CAPUT VI.
+De eadem cyclica ostensione in secunda ﬁgura.
+In secunda autem ﬁgura afﬁrmativam quidem non
+est ostendere per hunc modum, privativam autem
+est; ergo przedicativa quidem non ostenditur, eo
+quod non sunt utrzeque prepositiones afﬁrmativaa,
+nam conclusio privativa,pra2dicativa autem ex utris-
+que ostendebatur aflirmativis. Privativa autem sic
+ostenditur: insit enim α omni b,c autem nulli,con-
+inest. Si ergo sumatur cui a alicui non inest,eidem
+clusia quoniam Ι) nulli c,si ergosumaturbomniain- Ι) c alicui inesse, necesse est ε alicui b inesse, aliter
+esse,et nulli c,necesse est ιι nulli ο inesse,ﬁt enim
+secunda ﬁgura, medium ἱ). Si autem α b privativa
+sumpta sit, altera vero praedicativa, prima erit
+ligura,nam c quidem omni a,b autem nulli c,quare
+ι) nulli a,ergo nec ιι b,medium c; ergo per conclu-
+sionem quidem etunam propositionem non litsyllo-
+gismus,assumpta autem altera erit. Si autem non
+universalis sit syllogismus,qua3 in toto quidem est
+propositio non ostenditur,propter eamdem causam
+quam quidem diximus et prius,qua: autem in parte,
+ostenditur quando universalis sit praedicativajnsit
+einm α omni ὸ, c autem non omni, conclusio ὁ c;

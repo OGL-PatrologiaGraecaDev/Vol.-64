@@ -1,0 +1,64 @@
+849
+
+DE SYLLOGISMO HYPOTHETICO.
+850
+sed ad terminos aspiciamus. Si quid vero ex his in Α animatum sit animal. Item secundam propositionem,
+assumptione quze prima propositio enuntiat, aufera-
+tur, si qme est consequens pars propositionis aufe~
+ratur, fiunt imperfecti et probatione indigentes qna-
+tuor sylkigismi’; si vero prior propositionis pars au-
+feratur, nulla erit necessitas syllogismi, in tertio
+tantum modo ubi non facit necessitatem complexio,
+sed tertninorum natura. Quocirca hic quoque qua-
+tuor vel quinque sunt syllogismi: quatuor quidem,
+si seCunda pars propositionis fuerit interempta;
+quintus vero, si cum non complexionis natura, sed
+tertninorum proprietas metiatur. Quocirca si ex duo-
+bus terminis propositio prima constat, octo sunt vel
+decem, nec amplius syllogismi. Ac de his quidem
+conditionalibus syllogismis, quorum propositiones
+connexa: sunt, et ex duabus prtedicativis simplicibus B ‘
+constant, sufllcienter expeditum est, nunc de his
+syllogismis dicendum est, qui ex praedicativa et hy-
+pothetica, vel ex hypothetica praedicativaque conne-
+ctuutur. Horum autem facile complexiones omnium
+syllogismorum apparebunt, si prius earum numerus
+exponetur. Sunt igitur priores quidem quae ex pra:-
+dicativa atque hypothetica connectuntur bas;
+Si sit a, cum sit b, est ε.
+Si sit a, cum sit b, non est c.
+Si sit α, cum non sit ιι, εει c.
+Si sita, cum non sit b, non est ε.
+Si non sita, cum sit b, est c.
+iii non sit a, cum. sit b, non est c.
+Si non sita, cum non sit b, est c.
+Si non sita, cum non sit b, non est c.
+Ac primum qua: sit earum natura, videtur esse tra-
+ctandum. Neque enim quoquo modo conditio pona-
+tur, conditionalis propositio ﬁet, sed si illa conse-
+quentia propter positam evenit conditionem; nam si
+quis ita dicat, si homo est, eum sit animal, anima-
+tum est, non videtur facere apposita conditio con-
+sequentiae necessitatem; nam etiamsi non sit homo,
+nihilominus tamen, cum sit animal, animatum est:
+at si ita ponatur, si sit homo, cum sit animatum,
+est animal, videtur consequentia: ratio in condi-
+tione consistere. Neque enim necesse est, cum ani-
+matum sit, animal esse, nisi homo vel aliquid tale
+fuerit, quod animatum esse proponitur; tunc
+enim quod animatum est, animal esse necesse
+est, homo namque vel quodlibet aliud tale animatum
+est. Per singulas igitur propositiones cundum est,
+et spectanda est earum singularum natura hoc modo:
+Prima propositio per quam enuntiatur, si est a cum
+sit b, cst c, talis esse debet, ut b quidem possit
+esse etiam prater α, si tamen a fuerit, b non esse
+non possit. Rursus idem b terminus possit esse etiam
+cum non est c, nec sit necesse ut b posito sit etiam
+c, sed tunc tantum necesse sit esse c, quando b ter-
+minus a terminum sequitur, ut si sit a homo, b ani-
+matum, canimal : animatum enim et praeter homi-
+nem et praeter animal esse potest. Si vero sit homo,
+animatum esse necesse est, et cum animatum homi~
+nis essentiam consequatur, consequitur ut ipsum
+utnon vivat, veluti lapis, fieri autem potest ut vivat,

@@ -1,0 +1,65 @@
+967
+1
+1111111111
+
+AN. MANL.
+terminum natassumptio,si quidem al‘lirmabitur,erit Α consequentiae similis modus est,ut in his propositio-
+iirma conclusio : sinegetur,nullus est syllogismus,
+nam si est ο, est a, si sit a, erit ὁ. Id enim conse-
+quebatur eam propositionem quas ait, si non sit b,
+non esse ιι ; si igitur sit c,erit b.At si idem ε termi-
+nus abnuatur,nihil est necessarium,nam si non sit
+c,neque ad a neque ad b terminum necessitas ulla
+constringit,velut si non sit sensibile,non sit forsitan
+animal,sed non necesse est esse animatum. Repe-
+rientur vero termini in quibus ne aquidem non esse
+necesse est.Ootavus modus est in quo ita proponi~
+tur,si non est Ι), non est (ι, et si non est υ, est α ς
+dico quia si non est b,uon est ο, si enim non sit ὁ,
+non erit α.ουοᾱ si uon sit a,erit ο, id enim conse-
+quebatur eam partem prepositionis,quas dicebat,si
+non est c,est a.Si igitur non sit b,crit σς quod si ὁ Β earum exempla necesse est revertatur,quze ex sim-
+terminus att’irmetur, nihil est necessarium,nam si
+sit b,neque esse neque non esse necesse est ο termi-
+num, quo tit ut ne ο quidem. Id vero tali liquet
+exemplo,si sit b animatum,a animal,c insensibile,
+et proponatur,si non sit animatum,non est animal,
+sinon sitinsensibile,estanimal.Si igiturnl‘lirmemus
+in assumptione ὁ terminum, et dicamus, atqui est
+animatum,non necesse est esse vel non esse animal
+vel insensibile.Quocirca nullus est syllogismus,at si
+ε terminus abnuaturﬁet protinus syllogismusmam
+si non est c, est a,si vero est α, erit b,si igitur non
+sit c,erit ὁ ; quod sic terminus aiﬁrmetur,nibil est
+necessarium, nam et si α terminum non esse ne-
+cesse_est,quantuiu ad bterminum nihil necessarium
+cadit; id vero tali demonstratur exemplo: si sit in-
+sensibile, non est animal, quod si non est animal,
+non necesse est esse vel non esse animatum.ln non
+aequimodis igitur pr0positionibus sive bsivec termi-
+nus assumatu r,octo necesse estex utraque parte ﬁeri
+syllogismosﬂeliqute vero ex utraque parte octenze
+complexiones necessitate privatae sunt. At si sint
+asquimoda’, nullos omnino est syllogismus. [Equi-
+modze vero dicuntur quoties a terminus ad utros-
+que vel esse vel non esse proponitur.0mnes autem
+aequimodee propositiones sunt hujusmodi :
+Si est 6, est α, si est c, est α.
+Si est b, est a, si non est c, est α.
+Si non est b, est α, si est ε, est α.
+Si non est ι), est a, si non est c. cst α.
+Si est ὁ, non est a, si est ε, non est a.
+Si est ὁ, non est a, si non est ε, non est α.
+Si non est b, non est a, si est ε, non est α.
+Si non est ὑ, non est a, si non cst ε, non est τι.
+ln quibus etper consequentiam propositionum supc-
+rius designatam,ct perexempla currentes possumus
+lucide et constanter agnoscere, nullum omnino in
+syllogismis fieri necessitatem. Quocircacum tribus
+terminis texitur propositio, et ex prima quidem ﬁ-
+gura fiunt syllogismi sedecim,ex secunda syllogismi
+sedecim,ex tertia etiam totidem colliguntur,omnes
+ex tribus terminis syllogismi quadraginta octo sunt.
+Restat vero ut de his syllogismis nuncdicamusqui
+duabus hypotheticis connectuntur,quorum quidem
+sequi d, ut si sint termini a homo,b medicus, c ani-

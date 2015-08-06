@@ -1,0 +1,59 @@
+859
+
+AN. MANI
+tas invenitur: sitenim propositio talis,si animatum Α cesse est vel esse irrationale,vel non esse. Octavus
+non sit,inanimatum est,et si inanimatum est,scn-
+sibile non est; atqui animatum est, non erit ne-
+cesse vel esse vel non esse sensibile. Septimus, si
+non est a,non est b,et si non est b,necesse est esse
+c; atqui c non est,igitur a esse necesse est; quod si
+a terminum sumpserimus,complexio nullam faciet
+necessitatem : sitenim propositio talis,si animal non
+sit, non est rationale, si rationale non est, irratio-
+nale est, et assumamus, atqui animal est, non ne-
+LIBER blgj-UNDUS.
+Coiiditionaliumpropositionum,qum tribus termi- B idem b esse ponatur,nihil evenit necessarium.Age
+nis constant, secunda ﬁgura estquoties cum aliquid
+dicitur, vel esse vel non esse consequitur, ut duo
+quaedam vel esse vel non csse dicantur. Variantur
+autem in ipsis propositionibus vel etiam in conclu-
+sionibus secundum assumptionis ordinem multis
+modis; quod ut facilius innotescat, primum cunctae
+propositiones in ordine digerantur, in quibus illud
+est praedicendum, quod saepe aequimodae propositio-
+nes ponuntur, saepe vero non. Ac de aaquimodis qui-
+dem nullusestsyllogismus ;asquimoda enim prapo-
+sitio est si ita dicamus,si aest, best,etsiesta,non
+estc ; atsi sint inaequimodaa, taciuntsyllogismunidn
+asquimoda vero secundes figurae prOpositio estin liis
+syllogismis hypotbeticis quorum enuntiationes tri-
+bus terminis componuntur, veluticum itaproponi- C es? ,δ’ ῃοηηθξη α’ δι ηῗη
+mus: si esta,est [δεῖ autem non esta, estc.Hujus pro-
+positionis tale intelligatur exemplum, si animal est,
+animatum est, si animal non est, insensibile est, hic
+igitur animal quod est, a non est ; uno modo propo-
+situm in utrisque, sed ad Ι) quidem at'lirmative, ad
+c vero negative conjungitur,et id vocatur non aequi-
+mode praedicari. Quod si in utrisque α θεεθ vel non
+esse poneretur, mquimoda praedicatio diceretur.
+Disponsntur igitur (ut dictum est) omnes non tequi-
+modis propositiones hoc modo, si est a, est Ι), si
+non est a, est ο, si est a, est b, si non est a, non est
+c, si est a, non est b, si non est α, est ο, si est α,
+non est ὁ, si non est (ι, non est c. Nunc igitura qui-
+dem esse positum est cum ί), non esse vero cum c.
+Rursus α non esse ponamus cum ὁ, θεεθ vero cum Ι)
+c ; si non est α, estb, si est α, est θ, si non est τι, est
+b, si est a, non est ο, sinon cst ιι, non est Ι), ὸ, si est
+a, est c, si non est α, non est b, si est b, non est ο.
+Si igitur non sit cequimoda propositio, assumpto
+quidem b fiunt sexdecim complexiones, quarum tan-
+tum octo sunt syllogismi. Rursus si assumaturr, sic
+quoque sexdecim complexiones fiunt, sed in octo
+tantum syIIOgismorum deprehenditur ﬁrma neces-
+sitas. Sit igitur primus modus secunda: ﬁgura: hic
+ex prima veniens propositione, si est α, est b,si uu-
+tem non est a, est c; dico quoniam si non est, ὸ, est
+c, quoniam enim si esta est Ι), secundum ordinem
+consequentia: si non est b, non erit a ;atqui sinon
+esset α, esset (ε, si igitur non sit b ; erit c ;quod si

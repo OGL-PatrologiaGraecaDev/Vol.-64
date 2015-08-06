@@ -1,0 +1,66 @@
+874
+ΡΑτηοΙ.. LXIV.
+28
+
+873 DE SYLLOGISMO HYPOTHETICO.
+duodecima, si cum non sita, est b, cum non sit c, Α c, non est d, cum igitur non sit, α, est ε ; vel ita,
+non est ([,atqui cum non sit a,est b, cum igitur non
+sit c, non es: d;vel ita, atqui cum non sit ε, est d,
+cum igitur non sita, ηοη est Ι). Ex tertia decima,
+quae quatuor colligit syllogismos hoc modo : si cum
+non est a, non est b,§cum sit ε, est d. Atqui cum
+non sita, non est b, cum sit c, estd; vel ita, atqui
+cum non sit a,est ὸ, cum igitur ε, ηοη est d ; vel
+ita,atqui cum sit ε, est d,cum igitur non sit a, non
+est b; vel ita,atquicum sit c, non est d, cum igitur
+non sita,est b.ltem ex quarta decima, si cum non
+est a, non est b, cum sit ο, ηοη est ά. Atqui cum
+non est a,aon est b,cum igitur sit ε, ηοη estd; vel
+ita,atquicum sit c,est d,cum igitur non sit τι, est b.
+Quinta decima rursus quatuor colligit syllogismos,
+hoc modo: si cum non est a,non est b, cum non sit
+c, est d.Atqui cum non sita,non est b, cum igitur
+non site, est d; vel ita, atqui cum non sit (ι, est b,
+cum igitur non sit c,estd;vel ita, atqui cum non sit
+proposuimus exemplis.
+Si cum sit τι homo, est b medicus, cum sit ο animatum, est d artifex.
+Si cum sita homo, est b niger, cum sit c animatus, non est ά albus.
+Si cum sit (ι animatum, est b medicus, cum non sitc inanimatum, est d artifex.
+Si cum sit α homo, est ὁ niger, cum non sit ις inanimatus, non est d albus.
+Si cum sit a homo, non est Ι) aeger, cum sit ε animatus, est ά sanus.
+Si cum sita homo, non est ὁ artifex, cum sit ο animatus,non estd medicus.
+Si cum sita animal, non est b sanus, cum non site inanimatum, est d aegrum.
+Si cum sita animatum, non est b artifex, cum non sit ο inauimatum, non est ἀ medicus.
+Si cum non sit a inanimatum, est ὁ medicus, cum sit c animatum, est ἁ artifex.
+Si cum non sit a inanimatum, est b niger, cum sit c inanimatum, non est d album.
+Si cum non sita inanimatum, est b medicus, cum non sit ο invitale, est d artifex.
+Si cum non sita inanimatum, est ὁ album, cum sit c invitale, non est α nigrum.
+Si cum non sit a irrationale, non est b aegrum, cum sit ε rationale, est d sanum.
+Si cum non sita inanimatum, non est b artifex, cum sit ο animatum, non est ά medicus.
+Si cum non sita irrationale, non est ὑ sanum, cum non sit ε inanimatum, est εἰ aegrum.
+Si cum non sit a inanimatum, non est b artifex, cum non sit ιτ invitale, non est ά modicus.
+Ac dehis quidem qui per connexionsm ﬁunthaec C in contrariis medietatecarentibus, similisque est ei
+dicta sint. Hi vero qui in disjunctione sunt positi
+illis videntur adjuncti,eorumque modos formasque
+suscipiunt,quos superiusinconnexione positos ex
+his propositionibus ﬁeri diximus quae duabus sim-
+plicibusjungerentur.8i igiturin disiunctione propo-
+sitarum propositionum ad causarum similitudinem
+monstravero qua: in connexione positae ex simpli-
+cibus copulataa sunt, quot .nodi,qualescunque con-
+clusiones sunt in unaquaque illarum, quae per con-
+nexionemfiuntpropositionum, totetiam in bis esse
+necesse est qua: per disjunctionem pronuntiata
+eamdemvimconnexionis habere monstratur. Qua—
+tuor igitur superius differentias per connexionem
+enuntiatarum pr0positionum esse diximus, si ex
+faciet syllogismum.Nam si haec pr0positio sit,si non
+simplicibus propositionibus copularentur,boc modo D est α, est b, sive non Sit η, erit b; sive sit a,non erit
+si est α, est b; si non est a, non est b; si est
+a non est b; si non est a,est ὸ. Per disjunctionem
+quoque propositiones quatuor tenent differentias
+hoc modo : aut est a, aut est b: aut non est a,
+aut non est b;aut est α, aut non est ὸς aut non est
+a,aut. est Ι). Quarum quidem ea qua: prima est et
+proponit,aut est a,aut est b.In his tantum dici po-
+test in quibus alterumeorum esse necesse est, velut

@@ -1,0 +1,64 @@
+817
+
+Nullum malum bonum est.
+Omne juStum bonum εει, concludit :
+Nullum justum malum est.
+Liquet igitur majorem extremitatem de minore in
+conclusione praedicari. Sed omnes secundae ﬁgura:
+syllogismi quamvis veri sint, verum tamen ex seipsis
+non probatur, sed ex prima: ﬁgurae modis implen-
+tur. Namque si a terminus de nullo b termino prte-
+dicetur, et inomni c termino sit, nondum probatum
+est quoniam omnino ὁ terminus de nullo c termino
+praedicetur. Sed si quis ex isto secundae ﬁgurae primo
+modo prima: ﬁgurae secundum modum iaciat, per
+conversionem totus syllogismus conclusioque probata
+est. Si quis enim in hoc syllogismo qui est α termi-
+nus in nullo β, et idem at terminus de omni c prtedi-
+ticularem negativam colligit, id cst ὸ terminum de
+cetur, et a b propositionem convertat, ut faciat esse Β quodam c termino. non praedicari. Quartus modus
+b a, nam omnis universalis negativa convertitur; si
+quis igitur dicat quoniam α terminus de n.ullo b ter-
+mino pra'dicatnr, et ι igitur de nullo a termino pra:-
+dicabitur, sed a terminus de omni c termino pracdi-
+cabitur. Fit igitur primze ﬁgurae secundus modus ex
+universali negativa et universali afﬁrmativa uni-
+versalem colligens negativam, ut sit conclusio. De-
+nullo igitur c termino ὁ prtedicabitur. His igitur con-
+versionibus omnis secundae et tertiae ﬁgurte syllo-
+gismus conclusioque colligitur et probatur. Atque
+ideo quoniam ex seipsis non sunt probati nisi ext
+superioribus comprobentur, id est, primae ﬁgura:
+modis, quicunque in secunda vel tertia ﬁgura in—
+ventus fuerit, imperfectus vocatur syllogismus. St:-
+versionem, sed per impossibilitatem, quoniam si
+cundus vero modus secundm ﬁgurae est quoties ex
+universali alﬁrntativa et universali negativa commu-
+tatis ordinibus universalibus rursus negativa con-
+cluditur. Si enim a terminus in omni b termino fuc-
+rit, et de nullo c termino przedicetur, b terminus de
+nullo c termino praedicabitur. Sit enim a bonum, b
+justum, c malum. Si quis igitur sic dicat :
+Omne justum bonum est,
+Nullum malum bonum est, concludit:
+Nullum igitur malum justum est.
+Sed btee complexio coniunctioque propositionum
+duplicem conversionem habet. Ostenditur enim de
+secundo prima! ﬁgurae modo sic. Nam si a terminus
+in omni b termino cst, etde nullo c termino pracdi-
+catur, hic universalis negativa convertitur. Erit igi-
+tur ut c terminus de nullo a termino praedicetur.
+Quod si ita est, erit huiusmodi syllogismus : c ter-
+minus de nullo a termino pra'dicatur, a terminus in
+ontni b termino est, c igitur terminus de nullo b ter-
+mino praedicabitur. Ecce una conversio facta est
+propositionis negativae. Sed quoniam diximus con-
+cludi non c in nullo b, sed b in nullo c termino, hic
+universalis conclusio negativa convertitur: et sicut
+conclusum est c terminum de nullo b termino prae-
+dicari, ita concluditur de nullo c termino b termi-
+num prmdicari. Tertio; modus secundat ﬁgura: est,
+quoties ex universali negativa et particular‘i afﬁrma-
+tiva particularis negativa colligitur. Si enim α termi-
+nus de nullo [ν termino prmdicctttr, et in quodam ε
+lud prius videndum εει, quod in tertiae ﬁgurm modis

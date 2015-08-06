@@ -1,0 +1,64 @@
+
+857
+DE SYLLOGISMO HYPOTHETICO.
+ferebat,in qua pronuntiabatur,si esset ὁ, consequi Α non est b, necesse est non esse ο ς atqui non est α,
+ex necessitate ut non esset etiam ο, si igitur sit a,
+non erit, quod si id quod propositio ultimum con-
+stituit ponat assumptio,id est non esse c,uu|lus est
+syllogismus.Nam si de aliqua re ita proponatur,si
+homo sit, est animal, et si est animal, ωοη εει la-
+pis, at non est lapis, non necesse erit aut esse aut
+non esse animal ; eodem modo nec hominem,potest
+enim si lapsis ωοη sit esse lignum,vel caetera quas
+nec animalia sunt,nec inter homines numerantur.
+Tertius vero modus est primae figuras, cum id as-
+sumptio constituit,quod propositio prima ponebat,
+cujus ex tertia propositione principium est cum ita
+preponimus : si est (ι, non est b, et si non cst b,
+necesse est esse ο. llic enim rursus, si α terminus
+assumatur,ita ut in prima est enuntiatione positus, Β
+ita dicetur, atqui est igitur a,est igitur ε. Probatio
+vero similis est superioribus, nam quia est α, ηοω
+est b, et quia non est b, est ε, quia igitur est a,
+est ο. Quod si c terminus assumatur, nihil neces-
+sarium fiet, ut si ita proponamus : si homo est,
+non est insensibile, si non est insensibile, animal
+est, est autem animal, non est necesse esse homi-
+nem.Quartus modus est qui ex quarta propositione
+principium capit,qui ex tali propositione formatur:
+si est a,non est ὸ, et si non est b, non est etiam c;
+hic enim si ιι εει, ηεεεεεε εει non esse ε. Demon-
+stratio vero eadem estquae in prioribus modis.Quod
+si non esse c assumatur,nulla erit necessitas com-
+plexionis hoc modo. Age enim proponatur, si est
+homo,non est irrationale, et si irrationale non est,
+non est inanimatum: atqui non est inanimatum, Ο
+non necesse est esse hominem.0uintus modus est
+ex quinta enuntiationedescendens,cujus prima talis
+est propositio, si non est a, est ὸ, si est b, etiam c
+necesse est esse: alqui non est a, c igitur necesse
+est esse.Hic quoque prius dicta conditio facit conse-
+quentiam necessitatis,at si id quod est c assumatur.
+nulla necessitas eveniet.Sit enim propositio: si non
+est irrationale rationale est,et si rationale est, ani-
+mai est, et si assumamus, sed est animal, non ne-
+cesse erit vel esse, vel non esse irrationale. Sextus
+modus est quem sexta propositio facit; si non
+est α, εει b, et si est b, non est ε, atqui non est a,
+non est igitur c. Similis vero superioribus est de-
+monstratio : at si ε assumatur, eodem modo nul-
+assumamus non esse a,nulla complexionis necessi-
+lus est syllogismus, nam si sit propositio, si ani- [) tas invenitur, nam si sit propositio, si homo est,
+rnatum non est, inauimatum est,et si inanimatam
+est,eensibile non est; si assumamus,atqui non est
+sensibile,non necesse erit vel esse vel non esse ani-
+matum.beptimus modus est,qui ex septima propo-
+sitione est, si α ηοω εει, Ι) non est, et si b non est,
+necesse est esse c, atqui non est a,necesse estigi—
+tur esse c; quod si ε assumatur, nihil fit necessa-
+rium,uam si proponamus,si non est animatum,non
+est animal,et si animal non est,insensibile est; as-
+sumamusque,atqui est insensibile, non necesse est
+vel esse vel non esse animatum.0ctavus modus est
+qui ita proponitur: si non est a, non est b, et si
+cesse est; quod si a terminum sumam,nulla necessi-

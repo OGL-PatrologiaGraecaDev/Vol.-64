@@ -1,0 +1,65 @@
+865
+
+DE SYLLOGISMO HYPOTHET‘ICO.
+866
+si non est c, non est ε. Quod si non est a, non est b. Α εει propositio, si est b, non est a, si est c, est a;
+Ita enim converti potest. Si igitur non εει ο,ἰιοῐι
+erit b. Si alﬁrmetur, c nulla est necessitas , nam si
+est corporeum, non necesse est animatum esse vel
+non esse. Quocirca nec animal quidem esse vel non
+esse necesse est. Tertia propositio talem recipit con-
+clusionem, si non est ὁ, est α, si est c, non est a;
+dico quia si non est b, non erit c, si enim non sit,
+est b, esea. Quod si sita, non erit ε, ita enim po-
+terat converti ea pars propositionis , quae, si esset ο
+terminus, a terminum non esse dicebat. Fit igitur ut
+si non sit b, non sit ε, quod si al‘Iirment esse ὁ ter-
+niinum, nulla est necessitas conclusionis. Nam si
+sit ὁ, necesse est quidem non esse a, sed non ne-
+cesse est esse c, ut in his terminis, si sit ὁ animatum,
+a inanimatum, ε animal. Si quis igitur sic proponat, Β sit animal. Quod enim mortuum nun est, potest esse
+si non est animatum, inanimatam est, si est animal,
+non εει inanimatam. Si igitur ponamus esse anima-
+tum, sequitur quidem ut non sit inanimatum, sed non
+necesse est ut sit animal. Si c vero terminus allirtite-
+tur, ﬁet necessaria conclusio hoc modo. Nam si est c,
+non est a, si non est a, est b. Id enim sequebatur
+eam propositionem, quas, si non esset ὁ terminus,
+a terminum esse dicebat. Si igitur sit ε, εει b; quod
+si Idem ε terminus abnuatur, nullus est syllogismus.
+Nam si non sit c, non necesse est esse vel non esse a.
+Quo lit ut ne ὁ quidem. Nam si non est animal, non
+necesse est esse vel non esse inanimatam. Quocirca
+ne animatum quidem. Ex quarta propositione talis
+est syllogismus, si non est ὁ, εει a, si non est c,
+non est a‘; dico quia si non est b, est c. Nam si non C
+est ὁ, εει a_', si vero a fuerit, necesse est esse c. Id
+enim consequitur eam propositionis partem quze ait,
+si non est c, non est a. Si igitur non sit ὁ, εει c. At
+si b terminus alﬁrmetur, nullus est syllogismus. Se-
+quitur enim ut non sit a, sed non sequitur ut sit vel
+non sit c, velut in his terminis. Nam si sit b quidem
+insensibile, α animal, c animatum, et proponatur,
+si non est insensibile, est animal , si non est anima-
+tum, non est animal, si sit insensibile, non est
+animal, sed non necesse est esse vel non esse
+animatum, ε vero terminus si negetur, Iiet protinus
+syllogismus. Nam si non cst c , non εει a , si non
+est a , erit b. Id enim consequitur eam propositionis ⁷
+partem qua: dicit, si non est ὸ εει a. Si igitur non
+nam si sit inanimatam, necesse est non esse anima-
+sit c, erit b, quod si sit ε, ηοη ιιεεεεεε εει esse vel D
+’ tum, sed non necesse est esse mortuum. Septima:
+non esse a. Quo ﬁt ut ne b quidem. Nam si cst ani-
+matum , non necesse est esse animal vel non esse.
+Quo Iit ut ne insensibile quidem esse vel non esse
+necesse sit. Et hactenus quidem quatuor modos ita
+disposuimus, ut ad b terminum, quoquo se modo ha-
+bet, a terminus esse poneretur, ad c vero non esse.
+Nunc ita statuamus, ut a terminus ad b terminum
+non esse dicatur, ad c vero esse, ordine scilicet
+commutato. Omnes vero esse non tequimodas pro-
+positiones illud ostendit quod a quidem afﬁrmative
+ad ὁ εει, ad ο negative proponitur, aut si negative
+ad ὁ, allirmativam ad c retinet enuntiationem. Quinta
+igitur propositio talem iacit syllogismum. sum talis

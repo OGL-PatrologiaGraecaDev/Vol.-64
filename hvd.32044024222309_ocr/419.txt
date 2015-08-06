@@ -1,0 +1,59 @@
+
+323 _ AN. M.\NL. sev. BOETII Sil
+Octavus Omne bonum justum est. Nullum malum bonum est.
+Quoddam igitur justum malum non est.
+Nonus Quoddam bonum justum est. Nullum malum bonum est.
+Qttoddam igifurjuslum malum non est.
+Secunda: ﬁgura: modi.
+Primus Nullum malum bonum est. Omne justum bonum est.
+Nullum igitur justum malum est.
+Secundus Omnejustutn bonum est. Nullum malum bonum est.
+Nullumigitur malum justum εει.
+Tertius Nullum malum bonum est. Quoddam justum bonum est.
+Quoddam igiturjustum malum non est.
+Quartus Omne justum bonum est. Quoddam malum bonum non est.
+Quoddam igitur malum justum non est.
+Tertia: ﬁgurm modi.
+Primus Omne bonum justum est. Omne bonum virtus est.
+Quaedam igitur virtus justa est.
+Secundus Omne bonum virtus est. Omne bonum justum εει.
+Quoddam igitur justum virtus est.
+Tertius Nullum bonum malum εει. Omne bonum justum est.
+Quoddam igitur justum malum non est.
+Quartus Quoddam bonum justum est. Omne bonum virtus est.
+Qucedam igitur virtus justa est.
+Quintus Omne bonum virtus est. Quoddam bonum justum est.
+’ Quoddam igitur justum virtus est.
+Sextus Quoddam bonum malum non est. Omne bonum justum est.
+Quoddam igitur justum malum non εει.
+Septimus Nullum bonum malum est. Quoddam bonum justum est.
+Quoddam igiturjustum malum non est.
+Hi sunt igitur omnes trium figurarum modi quorum Α bantur, namque in ipsos resolvuntur : ut eos per
+prima: figurat quatuor primae indemonstrabiles no- conversionem resolvamus, et per impossibilitatem,
+minantur et directi, id est sine aliqua conversione ut duo illi superius demonstrati sunt, consideremus
+monstrati; indemonstrabiles autem quoniam non per igitur eorum principia, quoniam unde nascuntur in
+alios demonstrantur, et perfecti dicuntur, quoniam idipsum resolvuntur. Quintus igitur prima: figura
+per seipsos comprobantur. Et primi quoniam posi- modus de primae primo figurae modo procreatur. Bi-
+ίίοηθ ει natura Primi sum ν ει in eos omnes Cir-teri uis enim propositionibus prioribus manentibus, cen-
+resolvuntur. Illi quoque quinque prima: figurae modi clusio primi modi particulariter conversa quintum
+imperfecti et per conversionem sunt. Secunda: vero efﬁcit syllogismum, quod in subjecta declaratur de-
+figurm, vel tertim, omnes imperfecti sunt, quoniam scriptione :
+per primos prima figurae modos quatuor compro-
+Omne justum bonum est eadem Omnejustum bonum est.
+Omnis virtus justa est eadem Omnis virtus justa est.
+Omnis virtus bona est versa Quoddam bonum virtus est.
+Sextus vero primm figurae modus de secundo prima: B sali conclusione universaliter conversa , sextus na-
+figurae modo capit principium. Manentibus enim dua- scitur syllogismus, ut subjecta docet descriptio :
+bus prioribus propositionibus secundi modi, univer-
+Nullum bonum malum est eadem Nullum bonum malum est.
+Omne justum bonum est eadem Omne justum bonum est.
+Nullum justum malum est versa Nullum malum justum est.
+Septimus modus primm figuraede tertio prima: figu- tionibus prioribus, particulari affirmativa in conclu—
+rm nascitur modo. Manentibus enim binis proposi- sione conversa, septimi modi collocatio procreatur.
+Omne bonum virtus est eadem Omne bonum virtus est.
+Quoddam justum bonum est eadem Quoddam justum bonum est.
+Quoddam justum virtus est vertitur Quaedam virtus justa εει.
+Octavus vero et nonus prima: figurae modus in quar— versaliter conversa, et prima propositione octavr n.0-
+tum prima: figurae modum resolvuntur, non etiam di particulariter in secundam quarti modi conversa,
+initium sumunt. Octavus resolvitur in quartum hoe eadem conclusio colligitur, id est. negatio particu-
+modo : prima enim quarti in secundam octavi uni- laris.

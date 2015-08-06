@@ -1,0 +1,63 @@
+865
+868
+est ιφ.
+
+AN. MANL. SEV. ΒΟΕΤΙΙ
+non est a, non est ιι, ει si est α, non est c; dico Α aequimodas propositiones : si est ὁ, εει a , si est c,
+quoniam si est ὁ, non est c, nam si est b, est a,
+quod si est α, non est c, si igitur est ὁ, non erit c;
+quod si ὁ terminum neget assumptio, nihil est ne-
+cessarium, si enim non sit b, non necesse erit a
+esse vel non esse, quo ﬁt utne c quidem, velut in
+his terminis, si sit a animatum , ὁ animal, c inani-
+matum. Si igitur proponamus, si non est animatum ,
+nonest animal, si est animatum, non est inanima-
+tum, et assumamus, sed non est animal, non ne-
+cesse est esse vel non esse animatum, quocirca ne
+inanimatam quidem, at si c terminus assumatur,
+si quidem cum afﬁrmatione ponatur, erit necessitas
+syllogismi, nam si est c, non est a, quod si non εει
+a, non est b, si igitur est c, non est b; at si c ter-
+mitium neget assumptio, nihil est necessarium, nam Β 1
+si non est c, non necesse erit esse vel non esse a.
+Quo lit ut ne b quidem, nam si non est inanimatam,
+fortasse quidem sit necesse esse animatum , sed non
+necesse est animal esse. Invenientur autem termini
+in quibus non necesse sit esse (ι , veluti si ponamus
+c nigrum, a album , negatio nigro non consequitur
+ut al'ﬁrmetur album. Et secunda quidem ﬁgurae in
+eqtiimodas complexiones omnes (ut arbitror) expli-
+cuimus, si vero aquimodaa sint, nullus omnino lit.
+syllogismus. Equimodre vero ﬁunt hoc modo: quo-
+tiescunque enim a terminus ad ὁ ει ad c simul esse
+vel non esse ponitur, quoquomodo ὁ atque ο termini
+varientur. Harum igitur quae mquimodzc esse dicun-
+tur complexiones, nulla est complectibilis. Sunt au-
+tem omnes :equimodte complexiones ha: :
+Siest a, εει b, si esta, est c, si esta, est b, si est
+a, non est c.
+Si est a, non est b, si est a, εει c, si est a, non est
+ὁ, si est a, non est c.
+Si non est a, est b, si non est a, est c, si non esta,
+Si non est ιι, non ρει c, si non est a, non est li, si
+non est a, est c.
+Si nou est a, non est b, si non est a, non est c.
+Quarum imbecillam conclusionem atque omni ca-
+rentem necessitate, ex assumptionibus quoquo modo
+faelis inveniamus, nec non secundum superius de-
+scriptus modos etiam terminos facillime reperire po-
+terimus, per quos demonstretur nullam in talibus
+complexionibus inveniri posse constantiam. Ac de
+secunda quidem ﬁgura, quanti sint et quot modis
+ﬁant syllogismi diligenter ostendimus. Fiunt autem,
+si iua'quimodze quidem complexiones fuerint, b ter-
+mino asstnupto, syllogismi octo, totidemque ε si ter-
+minus assumatur; sunt igitur secundae figura: sede-
+t-im syllogismi, totidem vero b atque ε termino, non ita
+ιιι oportet assumptis complexiones ﬁunt, quibus nihil
+admodum colligatur. Nunc igitur de tertia ﬁgura dicen-
+dum est. in qua quidem totidem complexiones ﬁunt
+et totidem syllogismi, sed ita ut non tequimodze
+propositiones ponantur; quod si :eqnimodze fuerint,
+nullus omnino ( ut in secunda ﬁgura dictum est) ﬁet
+syllogismus. Exponamus igitur omnes ﬁgurat: tertiae in

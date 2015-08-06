@@ -1,0 +1,63 @@
+847
+
+AN. MANL. BEV. BOETII 848
+in prima propositione consequens fuerat,in assum- Α cum non sit b,non sit a.Consequitur igitur,ut cum
+ptione est interemptus,ut a terminus qui propositio-
+nis prima pars fuerat interimetur,eaque necessitas
+tali ratione probabitur,propositum namque est,si a
+sit, b esse; et assumptio facta est ut consequens
+pars propositionis interimeretur,id est ηοω esse b.
+Dico quia consequitur non esse a,nam si potest esse
+a,cum non sit b,irustra erit prima propositio quae
+ait, si asit, b esse. Atqui ea propositio valet, cum
+igitur sit α, est ὑ.οωοᾱ si cum non sit b,sit a,quod
+scilicet ex assumptione proponitur, idem Ι) erit et
+non erit: non erit,quia b non esse proponit assum-
+ptio; erit autem, quia si est a,erit b,quod ﬁeri non
+potestgnon igitur si b non fuerit,erit a.Hic est ergo
+primus modus talium syllogismorum,qui ex inter-
+empta parteponsequentipr0positionis ﬁunt,quinon B dies, nox erit, sive non fuerit nox, dies erit, sive
+sunt perfecti neque ex se cogniti, sed indigent vel
+ejus quam superius proposui,velalteriuscujuslibet
+probationis,ut veri esse monstrentur.Quod si prima
+[pars]pr0positionisinterimatur,non erit syllogismus;
+age enim ita dicamus, si est a, est b; atqui non
+est a,non sequitur ut sit vel non sit b; ut etiam de-
+monstratur exemplo. Sit enim propositio, si homo
+est,animal est; sed homo non est, non necesse erit
+vel esse animal,vel non esse. Secundus modus per
+contradictionem assumptionis,qui a secunda propo-
+sitione descendit,ille est cum ita proponimus,si est
+a,non est b;atquibest,igitur anon est.Hic enim rur-
+sus secunda pars propositionis interempta,nam cum
+secunda pars prcpositionis b non esse diceret, si a
+fuisset assumptio,b esse pronuntiat. Afﬁrmatio au- Β
+tem perimitnegationem,quam per assunptionem con-
+sequitur, ut α non sit hoc modo.Sit enim proposi-
+tio, sia est, b non est, et sit Ι). Dico quia non erit
+(ι, nam si erit a, cum sit b,idem b erit et non erit;
+non erit quidem ex prima propositione qua: dicit,si
+est a, non est b; erit autem perassumptionem,qua
+dicimus esse ι). At si praecedens pars pr0positionis
+auferatur,non ﬁet ulla necessitas, Age enim in hu-
+jusmodi propositione, si a est, b non est, ita dica-
+mus: atqui non est a,non consequitur utsit vel non
+sit b.1d vero tali arguitur exemplo.Dicamus enim si
+nigrum est,album non est,assumamusque non esse
+nigrum, non statim consequitur ut vel album sit,
+vel non sit,potest enim esse aliquod mediorum.Ter-
+tius modus ille est ex tertia propositione deductus,
+cum ita proponimus, si a non est, b est, b autem, Β modo factis,si quidem prima pars prepositionisas-
+non est, (ι igitur est. Hic quoque consequens pars
+propositionis assumpta est, et cum in propositione
+alﬁrmaretur,in assumptione negata est, et est rata
+consequentia,et perﬁciens syllogismum hoc modo:
+nam si verum est, cum non sit a, esse b, dico quia
+si Ι) ηοω sit, est ας nam si poterit, cum ὁ ηοω sit,
+non esse α, frustra est prima propositio,qua3 dicit,
+cum non sita esse b, eritque b ac non erit : non
+erit quidem ex ea assumptione qua) proponit non
+esse b; erit autem, quia, si a terminus esse nega-
+bitur,posito non esse b termino,cum non sita,erit
+b, quod est impossibile. Non igitur potest ﬁeri ut
+uendo assumitur,si non ad complexionis naturam»
